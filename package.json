@@ -69,5 +69,8 @@
     "react-error-overlay": "^6.0.9",
     "react-router-dom": "^5.3.0",
     "react-scripts": "^5.0.0"
+  },
+  "optionalDependencies": {
+    "fsevents": "^2.3.2"
   }
 }
